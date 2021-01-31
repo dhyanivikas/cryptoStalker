@@ -1,0 +1,12 @@
+#IEXENPOINT="https://investors-exchange-iex-trading.p.rapidapi.com/stock/msft/book"
+#IEXENPOINT="https://investors-exchange-iex-trading.p.rapidapi.com/stock/tsla/book"
+APISECRETPATH="../../../../resources/secrets.yaml"
+MSFTALERTPATH="../../../../resources/msft-alert.mp3"
+DATA="quote"
+LATESTPRICE="latestPrice"
+MARKETDATA="latestPrice"
+OPEN="open"
+USDPRICE="close"
+LAST24HOURCHANGE="percent_change_usd_last_24_hours"
+LAST1HOURCHANGE="percent_change_usd_last_1_hour"
+CHECKFREQUENCY=10
